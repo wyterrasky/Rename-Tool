@@ -1,5 +1,7 @@
 # Rename-Tool
 对文件进行批量命名，可结合totalcommand使用
+需要pyqt5模块支持
+
 # ---------------------------------
 # Autor:             terrasky
 # Date:              2023-03-15
