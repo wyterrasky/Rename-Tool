@@ -35,7 +35,8 @@
 ## 用法说明
 step1  :  导入文件名。可批量导入选定文件，导入的文件名列表位于工作区。
 > 支持使用totalcommad带参数运行
-> ![Uploading image.png…]()
+> ![image](https://github.com/wyterrasky/Rename-Tool/assets/147787793/e9baa28b-ed11-4156-89c6-7a9b370d9b51)
+
 
 
 step2  :  编辑公式。可手动输入公式，也可结合公式快捷输入区输入。公式输入规则参[命名公式](#命名公式)
